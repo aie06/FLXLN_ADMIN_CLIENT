@@ -1,0 +1,373 @@
+
+{
+    "products": [{
+            "id": 1,
+            "title": "Enclose Circuit Breaker",
+            "image": "./assests/Products/Circuit_Breaker/enclosed_circuit_board.jpg",
+            "price":0.00,
+            "qty": 100,
+            "category": "Circuit Breakers"
+        
+        },
+
+        {
+            "id": 2,
+            "title": "Ground Fault Circuit Breaker",
+            "image": "./assests/Products/Circuit_Breaker/ground_fault_circuit_breaker.jpg",
+            "price":0.00,
+            "qty": 100,
+            "category": "Circuit Breakers"
+        },
+        {
+            "id": 3,
+            "title": "Circuit Breaker Easypact EZC100H - TMD - 40 A",
+            "image": "./assests/Products/Circuit_Breaker/circuit_easypact_40.jpg",
+            "price":0.00,
+            "qty": 100,
+            "category": "Circuit Breakers"
+        },
+        {
+            "id": 4,
+            "title": "Multi-pole Circuit Breaker",
+            "image": "./assests/Products/Circuit_Breaker/multipole_circuit_breaker.jpg",
+            "price":0.00,
+            "qty": 100,
+            "category": "Circuit Breakers"
+        },
+        {
+            "id": 5,
+            "title": "Schneider A9F74232 Miniature Circuit Breaker - iC60N - 2 Poles - 32 A-C Curve",
+            "price":0.00,
+            "qty": 100,
+            "image": "./assests/Products/Circuit_Breaker/schneider.jpg",
+            "category": "Circuit Breakers"
+        },
+
+        {
+            "id": 6,
+            "title": "Circuit Breaker Easypact EZC100H - TMD - 30 A",
+            "image": "./assests/Products/Circuit_Breaker/circuit_easypact_30.jpg",
+            "price":0.00,
+            "qty": 100,
+            "category": "Circuit Breakers"
+        },
+
+
+        {
+            "id": 7,
+            "title": "Double-pole Circuit Breaker",
+            "image": "./assests/Products/Circuit_Breaker/double_pole.jpg",
+            "price":0.00,
+            "qty": 100,
+            "category": "Circuit Breakers"
+        },
+        {
+            "id": 8,
+            "title": "Single-pole Circuit Breaker",
+            "image": "./assests/Products/Circuit_Breaker/single_pole.jpg",
+            "price":0.00,
+            "qty": 100,
+            "category": "Circuit Breakers"
+        },
+        {
+            "id": 9,
+            "title": "Electrical Conduit Pipes",
+            "image": "./assests/Products/Electrical_Conduit/electrical_pipes.jpg",
+            "price":0.00,
+            "qty": 100,
+            "category": "Electrical Conduit"
+        },
+        {
+            "id": 10,
+            "title": "Utility Box",
+            "image": "./assests/Products/Electrical_Conduit/utility_box.jpg",
+            "price":0.00,
+            "qty": 100,
+            "category": "Electrical Conduit"
+        },
+        {
+            "id": 11,
+            "title": "Junction",
+            "image": "./assests/Products/Electrical_Conduit/junction.jpg",
+            "price":0.00,
+            "qty": 100,
+            "category": "Electrical Conduit"
+        },
+        {
+            "id": 12,
+            "title": "Motor Control Center",
+            "image": "./assests/Products/Electrical_Distribution_Panel/motor_control_center.jpg",
+            "price":0.00,
+            "qty": 100,
+            "category": "Electrical Distribution Panel"
+        },
+        {
+            "id": 13,
+            "title": "Low Voltage Switchboard",
+            "image": "./assests/Products/Electrical_Distribution_Panel/low_voltage_switch.jpg",
+            "price":0.00,
+            "qty": 100,
+            "category": "Electrical Distribution Panel"
+        },
+        {
+            "id": 14,
+            "title": "Automatic Transfer Switch",
+            "image": "./assests/Products/Electrical_Distribution_Panel/automatic_transfer_switch.jpg",
+            "price":0.00,
+            "qty": 100,
+            "category": "Electrical Distribution Panel"
+        },
+        {
+            "id": 15,
+            "title": "Manual Transfer Switch",
+            "image": "./assests/Products/Electrical_Distribution_Panel/manual_transfer_switch.jpg",
+            "price":0.00,
+            "qty": 100,
+            "category": "Electrical Distribution Panel"
+        },
+        {
+            "id": 16,
+            "title": "Fuse Box",
+            "image": "./assests/Products/Electrical_Distribution_Panel/fuse_box.jpg",
+            "price":0.00,
+            "qty": 100,
+            "category": "Electrical Distribution Panel"
+        },
+        {
+            "id": 17,
+            "title": "Main Breaker Panel",
+            "image": "./assests/Products/Electrical_Distribution_Panel/main_breaker_panel.jpg",
+            "price":0.00,
+            "qty": 100,
+            "category": "Electrical Distribution Panel"
+        },
+        {
+            "id": 18,
+            "title": "Panelboard",
+            "image": "./assests/Products/Electrical_Distribution_Panel/panelboard.jpg",
+            "price":0.00,
+            "qty": 100,
+            "category": "Electrical Distribution Panel"
+        },
+        {
+            "id": 19,
+            "title": "Floor Outlet Series",
+            "image": "./assests/Products/Electric_Switches_and_Outlets/floor_outlets_series.jpg",
+            "price":0.00,
+            "qty": 100,
+            "category": "Electric Switches and Outlets"
+        },
+        {
+            "id": 20,
+            "title": "Full-Color Series A-Type",
+            "image": "./assests/Products/Electric_Switches_and_Outlets/full_color_series_a_type.jpg",
+            "price":0.00,
+            "qty": 100,
+            "category": "Electric Switches and Outlets"
+        },
+        {
+            "id": 21,
+            "title": "V Hotel Series",
+            "image": "./assests/Products/Electric_Switches_and_Outlets/v_hotel_series.jpg",
+            "price":0.00,
+            "qty": 100,
+            "category": "Electric Switches and Outlets"
+        },
+        {
+            "id": 22,
+            "title": "Full-Color Wide Series Hotel Type",
+            "image": "./assests/Products/Electric_Switches_and_Outlets/full_color_wide_series_hotel_type.jpg",
+            "price":0.00,
+            "qty": 100,
+            "category": "Electric Switches and Outlets"
+        },
+        {
+            "id": 23,
+            "title": "Full-Color Wide Series A-Type",
+            "image": "./assests/Products/Electric_Switches_and_Outlets/full_color_wide_series_a_type.jpg",
+            "price":0.00,
+            "qty": 100,
+            "category": "Electric Switches and Outlets"
+        },
+        {
+            "id": 24,
+            "title": "Full-Color Wide Series Refina A-Type",
+            "image": "./assests/Products/Electric_Switches_and_Outlets/full_color_wide_series_refina_a_type.jpg",
+            "price":0.00,
+            "qty": 100,
+            "category": "Electric Switches and Outlets"
+        },
+        {
+            "id": 25,
+            "title": "Flatima Series A-Type",
+            "image": "./assests/Products/Electric_Switches_and_Outlets/flatima_series_a_type.jpg",
+            "price":0.00,
+            "qty": 100,
+            "category": "Electric Switches and Outlets"
+        },
+        {
+            "id": 26,
+            "title": "Slim Art Series A-Type",
+            "image": "./assests/Products/Electric_Switches_and_Outlets/slim_art_series_a_type.jpg",
+            "price":0.00,
+            "qty": 100,
+            "category": "Electric Switches and Outlets"
+        },
+        {
+            "id": 27,
+            "title": "Cable Tray",
+            "image": "./assests/Products/Electrical_Wires_and_Cables/cable_tray.jpg",
+            "price":0.00,
+            "qty": 100,
+            "category": "Electrical Wires and Cables"
+        },
+        {
+            "id": 28,
+            "title": "Wire Gutter",
+            "image": "./assests/Products/Electrical_Wires_and_Cables/wire_gutter.jpg",
+            "price":0.00,
+            "qty": 100,
+            "category": "Electrical Wires and Cables"
+        },
+        {
+            "id": 29,
+            "title": "Electrical Cables",
+            "image": "./assests/Products/Electrical_Wires_and_Cables/electrical_cables.jpg",
+            "price":0.00,
+            "qty": 100,
+            "category": "Electrical Wires and Cables"
+        },
+        {
+            "id": 30,
+            "title": "Green and Bare Copper Wires ",
+            "image": "./assests/Products/Electrical_Wires_and_Cables/green_and_bare_copper_wires.jpg",
+            "price":0.00,
+            "qty": 100,
+            "category": "Electrical Wires and Cables"
+        },
+        {
+            "id": 31,
+            "title": "White Wires",
+            "image": "./assests/Products/Electrical_Wires_and_Cables/white_wires.jpg",
+            "price":0.00,
+            "qty": 100,
+            "category": "Electrical Wires and Cables"
+        },
+        {
+            "id": 32,
+            "title": "Yellow Wires",
+            "image": "./assests/Products/Electrical_Wires_and_Cables/yellow_wires.jpg",
+            "price":0.00,
+            "qty": 100,
+            "category": "Electrical Wires and Cables"
+        },
+        {
+            "id": 33,
+            "title": "Blue Wires",
+            "image": "./assests/Products/Electrical_Wires_and_Cables/blue_wires.jpg",
+            "price":0.00,
+            "qty": 100,
+            "category": "Electrical Wires and Cables"
+        },
+        {
+            "id": 34,
+            "title": "Red Wires",
+            "image": "./assests/Products/Electrical_Wires_and_Cables/red_wires.jpg",
+            "price":0.00,
+            "qty": 100,
+            "category": "Electrical Wires and Cables"
+        },
+        {
+            "id": 35,
+            "title": "Black Wires",
+            "image": "./assests/Products/Electrical_Wires_and_Cables/black_wires.jpg",
+            "price":0.00,
+            "qty": 100,
+            "category": "Electrical Wires and Cables"
+        },
+        {
+            "id": 36,
+            "title": "Electrical Wires",
+            "image": "./assests/Products/Electrical_Wires_and_Cables/electrical_wires.jpg",
+            "price":0.00,
+            "qty": 100,
+            "category": "Electrical Wires and Cables"
+        },
+        {
+            "id": 37,
+            "title": "Three-phase Electric Meter",
+            "image": "./assests/Products/Meter_Center/three_phase_electric_meter.jpg",
+            "price":0.00,
+            "qty": 100,
+            "category": "Meter Center"
+        },
+        {
+            "id": 37,
+            "title": "Single-phase Electric Meter",
+            "image": "./assests/Products/Meter_Center/single_phase_electric_meter.jpg",
+            "price":0.00,
+            "qty": 100,
+            "category": "Meter Center"
+        },
+        {
+            "id": 38,
+            "title": "Kilowatt Hour Meter",
+            "image": "./assests/Products/Meter_Center/killowatt_hour_meter.jpg",
+            "price":0.00,
+            "qty": 100,
+            "category": "Meter Center"
+        },
+        {
+            "id": 39,
+            "title": "Cable Lugs",
+            "image": "./assests/Products/Other_Products/cable_lugs.jpg",
+            "price":0.00,
+            "qty": 100,
+            "category": "Other Products"
+        },
+        {
+            "id": 40,
+            "title": "Copper Busbar",
+            "image": "./assests/Products/Other_Products/copper_busbar.jpg",
+            "price":0.00,
+            "qty": 100,
+            "category": "Other Products"
+        },
+        {
+            "id": 41,
+            "title": "Terminal Lugs",
+            "image": "./assests/Products/Other_Products/terminal_lugs.jpg",
+            "price":0.00,
+            "qty": 100,
+            "category": "Other Products"
+        },
+        {
+            "id": 42,
+            "title": "Industrial Mask",
+            "image": "./assests/Products/Other_Products/industrial_mask.jpg",
+            "price":0.00,
+            "qty": 100,
+            "category": "Other Products"
+        },
+        {
+            "id": 43,
+            "title": "Industrial Tapes",
+            "image": "./assests/Products/Other_Products/industrial_tapes.jpg",
+            "price":0.00,
+            "qty": 100,
+            "category": "Other Products"
+        },
+        {
+            "id": 44,
+            "title": "PVC Pipe Cement",
+            "image": "./assests/Products/Other_Products/pvc_pipe_cement.jpg",
+            "price":0.00,
+            "qty": 100,
+            "category": "Other Products"
+        }
+
+
+
+
+    ]
+}
